@@ -1,2 +1,2 @@
 # hello-world
-Test
+Test project. Just to get an idea of how Git works...
